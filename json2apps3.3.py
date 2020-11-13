@@ -91,9 +91,7 @@ def GetAppScopeId(scopes,name):
 def ShowScopes(scopes):
     ScopesList = []
     headers = ['Number', 'Scope Name', 'Scope ID', 'VRF ID']
-    for i,scope in enumerate(scopes): 
-        ScopesList.append([i+1,scope["name"] , scope["id"], scope['vrf_id']])
-    #print (ScopesList)
+    for i,scope in enumerate(scopes): ScopesList.append([i+1,scope["name"] , scope["id"], scope['vrf_id']])
     table = columnar(ScopesList, headers, no_borders=False)
     print(table)
 

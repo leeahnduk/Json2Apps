@@ -64,7 +64,7 @@
             {
               "field": "user_orchestrator_system/cluster_name",
               "type": "eq",
-              "value": "k8s-cluster"
+              "value": "DMZ-OpenShift3-m1"
             }
           ]
         },
@@ -484,7 +484,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/namespace",
@@ -523,7 +523,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -562,7 +562,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/namespace",
@@ -609,7 +609,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -648,7 +648,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -687,7 +687,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/namespace",
@@ -734,7 +734,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -773,7 +773,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -812,7 +812,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/namespace",
@@ -851,7 +851,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/namespace",
@@ -924,7 +924,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -963,7 +963,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/namespace",
@@ -1010,7 +1010,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -1049,7 +1049,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/namespace",
@@ -1088,7 +1088,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -1127,7 +1127,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/namespace",
@@ -1166,7 +1166,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -1205,7 +1205,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/namespace",
@@ -1244,7 +1244,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -1283,7 +1283,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/namespace",
@@ -1322,7 +1322,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -1361,7 +1361,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
@@ -1400,7 +1400,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/namespace",
@@ -1447,7 +1447,7 @@
               {
                 "field": "user_orchestrator_system/cluster_name",
                 "type": "eq",
-                "value": "k8s-cluster"
+                "value": "DMZ-OpenShift3-m1"
               },
               {
                 "field": "user_orchestrator_system/service_name",
